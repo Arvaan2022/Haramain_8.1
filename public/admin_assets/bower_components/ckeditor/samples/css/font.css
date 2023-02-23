@@ -1,0 +1,8 @@
+@font-face {  
+
+   font-family: "SourceSansPro-Regular";  
+   src: '192.168.1.10/pam/public/asset/font/AlexBrush-Regular.ttf';
+   src: local("SourceSansPro-Regular"), '192.168.1.10/pam/public/asset/font/AlexBrush-Regular.ttf' format("truetype"); 
+
+}
+
